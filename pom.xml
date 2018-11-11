@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rapid-core</module>
+        <module>rapid-test</module>
     </modules>
     <groupId>org.sheep.rapid</groupId>
     <artifactId>rapid</artifactId>
